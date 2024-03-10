@@ -4,7 +4,7 @@
 sudo apt update && sudo apt upgrade -y
 
 # Install packages
-sudo apt install nala obsidian tlp tlp-rdw smartmontools -y
+sudo apt install nala tlp tlp-rdw smartmontools -y
 
 # Start and enable TLP
 sudo tlp start
